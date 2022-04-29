@@ -8,6 +8,7 @@ import Login from "./components/login";
 import Home from "./components/home";
 import Contacts from "./components/contact";
 import Treadmill from "./components/treadmill";
+import Calendar from "./components/calendar";
 
 const AppContainer = styled.div`
   width: 100%;
@@ -21,7 +22,7 @@ const AppContainer = styled.div`
 function App() {
   return (
     <AppContainer>
-      <Treadmill />
+      <Calendar />
     </AppContainer>
   );
 }
