@@ -1,6 +1,8 @@
 import "./App.css";
 import "./Contacts.css";
 import "./treadmill.css";
+import "./calendar.css";
+
 import styled from "styled-components";
 
 import Register from "./components/register";
