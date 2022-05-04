@@ -2,6 +2,7 @@ import "./App.css";
 import "./Contacts.css";
 import "./treadmill.css";
 import "./calendar.css";
+import "./doctor.css";
 
 import styled from "styled-components";
 
@@ -11,7 +12,7 @@ import Home from "./components/home";
 import Contacts from "./components/contact";
 import Treadmill from "./components/treadmill";
 import Calendar from "./components/calendar";
-
+import Doctor from "./components/doctor.jsx";
 const AppContainer = styled.div`
   width: 100%;
   height: 100%;
@@ -24,7 +25,7 @@ const AppContainer = styled.div`
 function App() {
   return (
     <AppContainer>
-      <Calendar />
+      <Doctor />
     </AppContainer>
   );
 }

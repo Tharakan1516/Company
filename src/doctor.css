@@ -1,0 +1,402 @@
+.Rectazz{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FBFEEA;
+border-radius: 36px;
+}
+.rebox{
+    position: absolute;
+width: 386px;
+height: 896px;
+left: 168px;
+top: 103px;
+}
+.lbls{
+    position: absolute;
+width: 237px;
+height: 42px;
+left: 215px;
+top: 129px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rebox1{
+    position: absolute;
+width: 340px;
+height: 96px;
+left: 191px;
+top: 256px;
+
+background: #FDF1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+.woman1{
+    position: absolute;
+    width: 90px;
+    height: 151px;
+    left: 170px;
+    top: 201px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));  
+}
+.lbls1{
+    position: absolute;
+    width: 145px;
+    height: 54px;
+    left: 290px;
+    top: 277px;
+    
+    font-family: 'Microsoft JhengHei UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 27px;
+    
+    color: #000000;    
+
+}
+.lbls2{
+    position: absolute;
+width: 145px;
+height: 54px;
+left: 290px;
+top: 300px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+
+color: #000000;
+}
+.green1{
+    position: absolute;
+width: 39px;
+height: 34px;
+left: 466px;
+top: 287px;
+
+}
+.rebox2{
+    position: absolute;
+width: 340px;
+height: 96px;
+left: 191px;
+top: 431px;
+
+background: #FDF1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+.blackz{
+    position: absolute;
+width: 91px;
+height: 134px;
+left: 182px;
+top: 397px;
+
+}
+.lbls3{
+    position: absolute;
+width: 145px;
+height: 54px;
+left: 290px;
+top: 452px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+
+color: #000000;
+}
+.lbls4{
+    position: absolute;
+width: 145px;
+height: 54px;
+left: 290px;
+top: 476px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+
+color: #000000;
+}
+.green2{
+    position: absolute;
+width: 39px;
+height: 34px;
+left: 466px;
+top: 466px;
+
+}
+.rebox3{
+    position: absolute;
+width: 340px;
+height: 96px;
+left: 191px;
+top: 620px;
+
+background: #FDF1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+.phonewoman{
+    position: absolute;
+width: 108px;
+height: 123px;
+left: 180px;
+top: 594px;
+}
+.lbls5{
+    position: absolute;
+width: 145px;
+height: 54px;
+left: 290px;
+top: 641px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+
+color: #000000;
+}
+.lbls6{
+    position: absolute;
+width: 145px;
+height: 54px;
+left: 290px;
+top: 663px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+
+color: #000000;
+
+}
+.green3{
+    position: absolute;
+width: 39px;
+height: 34px;
+left: 466px;
+top: 651px;
+}
+.rebox4{
+    position: absolute;
+width: 340px;
+height: 96px;
+left: 191px;
+top: 816px;
+
+background: #5E51EE;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+.thumbwoman{
+    position: absolute;
+width: 101px;
+height: 256px;
+left: 173px;
+top: 717px;
+}
+.lbls7{
+    position: absolute;
+width: 145px;
+height: 54px;
+left: 290px;
+top: 837px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+
+color: #000000;
+}
+.lbls8{
+    position: absolute;
+width: 145px;
+height: 54px;
+left: 290px;
+top: 859px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+
+color: #000000;
+}
+.green4{
+    position: absolute;
+width: 39px;
+height: 34px;
+left: 466px;
+top: 847px;
+
+}
+.rebox5{
+    position: absolute;
+width: 801px;
+height: 896px;
+left: 598px;
+top: 103px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 46px;
+}
+.rebox6{
+    position: absolute;
+width: 750px;
+height: 82px;
+left: 618px;
+top: 109px;
+
+background: #F5FAFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 12px;
+}
+.peace{
+    position: absolute;
+width: 136px;
+height: 103px;
+left: 641px;
+top: 88px;
+
+}
+.lbls9{
+    position: absolute;
+width: 294px;
+height: 38px;
+left: 838px;
+top: 131px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.call{
+    position: absolute;
+width: 62px;
+height: 62px;
+left: 1178px;
+top: 115px;
+}
+.video{
+    position: absolute;
+width: 62px;
+height: 62px;
+left: 1259px;
+top: 120px;
+}
+.peace2{
+    position: absolute;
+width: 136px;
+height: 103px;
+left: 1192px;
+top: 214px;
+}
+.thumbwoman2{
+    position: absolute;
+width: 74px;
+height: 199px;
+left: 648px;
+top: 576px;
+}
+.message1{
+    position: absolute;
+    width: 431.72px;
+    height: 165.02px;
+    left: 777px;
+    top: 265.98px;
+    
+}
+.message2{
+  
+    position: absolute;
+    width: 431.72px;
+    height: 165.02px;
+    left: 729px;
+    top: 550px;
+
+}
+.rebox7{
+    position: absolute;
+width: 801px;
+height: 108px;
+left: 598px;
+top: 889px;
+
+background: #F5FAFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 46px;
+}
+.addnew{
+    position: absolute;
+width: 79px;
+height: 85px;
+left: 685px;
+top: 903px;
+}
+.rebox8{
+    position: absolute;
+width: 428px;
+height: 80px;
+left: 796px;
+top: 903px;
+
+background: #F8F8FB;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 30px;
+}
+.files{
+    position: absolute;
+width: 69px;
+height: 85px;
+left: 1240px;
+top: 900px;
+}
+.reboxs{
+    position: absolute;
+width: 11px;
+height: 82px;
+left: 113px;
+top: 512px;
+
+background: #FDFDFD;
+border-radius: 35px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
