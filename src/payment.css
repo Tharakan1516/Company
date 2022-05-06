@@ -1,0 +1,420 @@
+.texts1{
+    position: absolute;
+width: 323px;
+height: 47px;
+left: 274px;
+top: 193px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.texts2{
+    position: absolute;
+width: 323px;
+height: 47px;
+left: 444px;
+top: 193px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.ellipse1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 30px;
+left: 274px;
+top: 343px;
+
+}
+.texts3{
+    position: absolute;
+width: 270px;
+height: 30px;
+left: 339px;
+top: 343px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.24);
+}
+.ellipse2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 30px;
+left: 274px;
+top: 458px;
+
+}
+.texts4{
+    position: absolute;
+width: 268px;
+height: 30px;
+left: 340px;
+top: 458px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.blog{
+    position: absolute;
+width: 655px;
+height: 409px;
+left: 243px;
+top: 550px;
+
+background: #5055BE;
+border-radius: 63px;
+}
+.texts5{
+    position: absolute;
+    width: 132px;
+    height: 55px;
+    left: 324px;
+    top: 600px;
+    
+    font-family: 'Microsoft JhengHei UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFCFC;
+}
+.texts6{
+    position: absolute;
+    width: 132px;
+    height: 55px;
+    left: 324px;
+    top: 629px;
+    
+    font-family: 'Microsoft JhengHei UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    
+    color: #FFFCFC;
+}
+.blog1{
+    position: absolute;
+width: 79px;
+height: 0px;
+left: 324px;
+top: 748px;
+
+border: 3.5px dashed #FFFDFD;
+}
+.blog2{
+    position: absolute;
+width: 79px;
+height: 0px;
+left: 459px;
+top: 748px;
+
+border: 3.5px dashed #FFFDFD;
+}
+.blog3{
+    position: absolute;
+width: 79px;
+height: 0px;
+left: 585px;
+top: 748px;
+
+border: 3.5px dashed #FFFDFD;
+}
+.texts7{
+    position: absolute;
+    width: 79px;
+    height: 44px;
+    left: 690px;
+    top: 715px;
+    
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 44px;
+    
+    color: #FBFBFB;
+    
+}
+.texts8{
+    position: absolute;
+    width: 180px;
+    height: 27px;
+    left: 322px;
+    top: 841px;
+    
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 27px;
+    
+    color: #FFFDFD;
+    
+}
+.texts9{
+    position: absolute;
+    width: 44px;
+    height: 27px;
+    left: 514px;
+    top: 841px;
+    
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 27px;
+    
+    color: #FFFDFD;
+    
+}
+.texts0{
+    position: absolute;
+    width: 67px;
+    height: 27px;
+    left: 322px;
+    top: 877px;
+    
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 27px;
+    
+    color: #FFFDFD;
+}
+.blog4{
+    position: absolute;
+width: 75px;
+height: 0px;
+left: 503px;
+top: 897px;
+
+border: 3.5px dashed #FFFDFD;
+}
+.blog5{
+    position: absolute;
+    width: 296.91px;
+    height: 516.93px;
+    left: 1030px;
+    top: 468.21px;
+    
+    background: #FCFCFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+
+
+}
+.texts01{
+    position: absolute;
+    width: 254px;
+    height: 39px;
+    left: 1050.78px;
+    top: 512.35px;
+    
+    font-family: 'Microsoft JhengHei UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 39px;
+    
+    color: #000000;
+    
+}
+.texts02{
+    position: absolute;
+    width: 247px;
+    height: 27px;
+    left: 1052.78px;
+    top: 606.35px;
+    
+    font-family: 'Microsoft JhengHei UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.texts03{
+    position: absolute;
+width: 247px;
+height: 27px;
+left: 1222px;
+top: 606.35px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.texts04{
+    position: absolute;
+width: 247px;
+height: 27px;
+left: 1052.78px;
+top: 671.35px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.texts05{
+    position: absolute;
+width: 247px;
+height: 27px;
+left: 1222px;
+top: 671.35px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.texts06{
+    position: absolute;
+width: 258px;
+height: 27px;
+left: 1052.78px;
+top: 741.35px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.texts07{
+    position: absolute;
+width: 258px;
+height: 27px;
+left: 1222px;
+top: 741.35px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.texts08{
+    position: absolute;
+width: 130px;
+height: 39px;
+left: 1111.78px;
+top: 798.35px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 39px;
+
+color: #000000;
+}
+.texts09{
+    position: absolute;
+width: 174px;
+height: 39px;
+left: 1090.78px;
+top: 842.35px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 39px;
+
+color: #000000;
+}
+.blog6{
+    position: absolute;
+width: 243px;
+height: 56px;
+left: 1055px;
+top: 901px;
+
+background: #13B79C;
+border-radius: 13px;
+}
+.texts10{
+    position: absolute;
+width: 169px;
+height: 27px;
+left: 1092px;
+top: 915px;
+
+font-family: 'Microsoft JhengHei UI';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #FFFBFB;
+}

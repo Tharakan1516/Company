@@ -1,0 +1,319 @@
+.reboxz{
+    position: absolute;
+width: 11px;
+height: 82px;
+left: 113.5px;
+top: 619px;
+
+background: #FDFDFD;
+border-radius: 35px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.Rectaz1{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 48px;
+}
+.block{
+    position: absolute;
+width: 1004px;
+height: 274px;
+left: 218px;
+top: 154px;
+
+background: #FFFCFC;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 44px;
+}
+.block1{
+    position: absolute;
+    width: 1004px;
+    height: 269px;
+    left: 218px;
+    top: 473px;
+    
+    background: #FFFCFC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 44px;
+}
+.block2{
+    position: absolute;
+width: 1004px;
+height: 226px;
+left: 218px;
+top: 798px;
+
+background: #FFFCFC;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 44px;
+}
+.block3{
+    position: absolute;
+width: 84px;
+height: 68px;
+left: 1259px;
+top: 103px;
+
+background: rgba(114, 146, 214, 0.34);
+border-radius: 16px;
+}
+.block4{
+    position: absolute;
+    width: 11px;
+    height: 705px;
+    left: 1301px;
+    top: 236px;
+    
+    background: #DAD6D6;
+    border-radius: 81px;
+}
+.block5{
+    position: absolute;
+    width: 11px;
+    height: 156.39px;
+    left: 1301px;
+    top: 308.82px;
+    
+    background: #5055BE;
+    border-radius: 35px;
+}
+.doc1{
+    position: absolute;
+width: 180px;
+height: 174px;
+left: 311px;
+top: 193px;
+}
+.circz{
+    position: absolute;
+width: 59px;
+height: 58px;
+left: 449px;
+top: 317px;
+
+}
+.lbels{
+    position: absolute;
+width: 34px;
+height: 25px;
+left: 462px;
+top: 335px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 25px;
+
+color: #FFFBFB;
+
+}
+.lbels1{
+    position: absolute;
+    width: 275px;
+    height: 35px;
+    left: 610px;
+    top: 219px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 35px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.lbels2{
+    position: absolute;
+    width: 152px;
+    height: 19px;
+    left: 611px;
+    top: 272px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: rgba(0, 0, 0, 0.4);
+}
+.stars{
+    position: absolute;
+width: 152px;
+height: 28px;
+left: 610px;
+top: 313px;
+}
+.doc2{
+    position: absolute;
+width: 180px;
+height: 170px;
+left: 311px;
+top: 516px;
+}
+.circz1{
+    position: absolute;
+width: 59px;
+height: 58px;
+left: 449px;
+top: 641px;
+}
+.lbels3{
+    position: absolute;
+    width: 34px;
+    height: 25px;
+    left: 462px;
+    top: 659px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    
+    color: #FFFBFB;
+}
+.lbels4{
+    position: absolute;
+    width: 275px;
+    height: 35px;
+    left: 610px;
+    top: 548px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 35px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.lbels5{
+    position: absolute;
+    width: 152px;
+    height: 19px;
+    left: 611px;
+    top: 601px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: rgba(0, 0, 0, 0.4);
+    
+}
+.stars1{
+    position: absolute;
+width: 152px;
+height: 28px;
+left: 610px;
+top: 642px;
+}
+.addbtn{
+    position: absolute;
+    width: 82px;
+    height: 77px;
+    left: 1092px;
+    top: 313px;
+}
+.addbtn1{
+    position: absolute;
+    width: 82px;
+    height: 77px;
+    left: 1092px;
+    top: 617px;
+}
+.doc3{
+    position: absolute;
+width: 180px;
+height: 166px;
+left: 311px;
+top: 838px;
+}
+.circz2{
+    position: absolute;
+width: 59px;
+height: 58px;
+left: 449px;
+top: 957px;
+}
+.lbels6{
+    position: absolute;
+    width: 34px;
+    height: 25px;
+    left: 462px;
+    top: 975px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+    
+    color: #FFFBFB;
+    
+}
+.lbels7{
+    position: absolute;
+    width: 275px;
+    height: 35px;
+    left: 624px;
+    top: 873px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 35px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.lbels8{
+    position: absolute;
+    width: 152px;
+    height: 19px;
+    left: 625px;
+    top: 926px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: rgba(0, 0, 0, 0.4);
+}
+.stars2{
+    position: absolute;
+width: 152px;
+height: 28px;
+left: 624px;
+top: 967px;
+}
+.addbtn2{
+    position: absolute;
+width: 82px;
+height: 77px;
+left: 1092px;
+top: 952px;
+}
+.filter{
+    position: absolute;
+width: 58px;
+height: 61px;
+left: 1270px;
+top: 106px;
+}

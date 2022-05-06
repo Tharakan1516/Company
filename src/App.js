@@ -3,6 +3,9 @@ import "./Contacts.css";
 import "./treadmill.css";
 import "./calendar.css";
 import "./doctor.css";
+import "./profile.css";
+import "./payment.css";
+import "./date.css";
 
 import styled from "styled-components";
 
@@ -13,6 +16,10 @@ import Contacts from "./components/contact";
 import Treadmill from "./components/treadmill";
 import Calendar from "./components/calendar";
 import Doctor from "./components/doctor.jsx";
+import Profile from "./components/docprofile";
+import Payment from "./components/payment";
+import Dates from "./components/date";
+
 const AppContainer = styled.div`
   width: 100%;
   height: 100%;
@@ -25,7 +32,7 @@ const AppContainer = styled.div`
 function App() {
   return (
     <AppContainer>
-      <Doctor />
+      <Dates />
     </AppContainer>
   );
 }
